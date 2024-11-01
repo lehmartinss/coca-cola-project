@@ -1,4 +1,4 @@
-# coca-cola-project
+
 # COCA-COLA
 ![](./img/coca%20cola.png)
 
@@ -12,4 +12,4 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 
 ## Autor
 [Letícia Beatriz](<https://www.linkedin.com/in/let%C3%ADcia-beatriz-martins/)
-# coca-cola-project
+
